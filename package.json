@@ -4,9 +4,9 @@
   "description": "Replace this with a description of your editor.",
   "version": "0.1.0",
   "vantage": {
-    "game": "Game Name",
-    "scid": "00000000-0000-0000-0000-000000000000",
-    "thumbnailUrl": "https://i.imgur.com/hgdfCBd.png",
+    "game": "Grand Theft Auto V",
+    "scid": "d8890100-b864-45cd-b20e-62d40020e1b2",
+    "thumbnailUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c3499515752491.56296793df2c1.png",
     "name": "Campaign Editor",
     "containerFilter": "savegame.svg",
     "fileFilter": "save"
